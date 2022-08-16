@@ -201,7 +201,7 @@ These packages provide components for common UI frameworks.
 
 ### Starter Projects
 These packages provide projects that you can use to start building a dApp with built-in wallet support.
-Alternatively, check out [solana-dapp-next](https://github.com/lisenmayben/solana-dapp-next) for a more complete framework.
+Alternatively, check out [solana-dapp-next](https://github.com/lisenmayben/solana-dapp-next) for a more complete framework on Next.js (React) or [nuxt3-solana](https://github.com/tiagoappetite/nuxt3-solana) for a Nuxt.js (Vue) scaffold setup.
 
 | package                                                                                                                         | description                                                             | npm                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
